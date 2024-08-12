@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" focusable="false" width="24" height="24" class="icon icon--quick-buy-shopping-cart   " fill="none" viewBox="0 0 24 24">
+      <path d="M1 3H5L6 13H18L20 6H18" stroke="#282828" stroke-width="1.6px" fill="none"></path>
+      <circle cx="7" cy="19" r="2" stroke="#282828" stroke-width="1.6px" fill="none"></circle>
+      <circle cx="17" cy="19" r="2" stroke="#282828" stroke-width="1.6px" fill="none"></circle>
+      <path d="M12 2V10M8 6H16" stroke="#282828" stroke-width="1.6px" fill="none"></path>
+    </svg>

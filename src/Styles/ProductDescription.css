@@ -1,0 +1,93 @@
+.ProductInfoNImage{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding-top: 30px;
+    /* gap: 20px; */
+
+}
+.ProductInfoNImage div{
+    /* width: 10%; */
+}
+.ProductInfoNImage img{
+    width: 30rem;
+
+}
+.ProductInfo{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 27rem;
+    flex-direction: column;
+    gap: 20px;
+}
+.productInfoName{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.NewPricebg{
+    font-size: 30px;
+    font-weight: 500;
+    color: #daa800;
+}
+.OldPriceSm{
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: line-through;
+}
+.addToCartBtn{
+    color: White;
+    background-color: #171717;
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px;
+    height: 2rem;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.addToWishListBtn{
+    color: White;
+    background-color: #171717;
+    padding: 20px;
+    text-align: center;
+    padding: 10px;
+    height: 2rem;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.BankLogos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.BankLogos img{
+    width: 20px;
+}
+.sideImages{
+    width: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+
+}
+.sideImages img{
+    width: 100%;
+}

@@ -83,6 +83,9 @@ img {
 
 .bb {
   text-align: center;
+  background-color: lightgray;
+  padding-top: 40px ;
+  padding-bottom: 40px;
 }
 
 .bc {

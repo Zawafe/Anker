@@ -1,0 +1,71 @@
+.NewsLetter{
+    width: 100%;
+    /* height: 221px; */
+    padding: 150px 0px;
+    background-color: #171717;
+}
+.NewsLetter-inner{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.NewsLetter h2 {
+    font-size: 27px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+.NewsLetter h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #daa800;
+    text-align: center;
+}
+.EmailInput{
+    width: 28rem;
+    height: 2.1rem;
+    padding: 16px 16px 16px 32px;
+    border-radius: 30px;
+    background-color: #cdcdcddd;
+    font-size: 24px;
+    font-weight: 400;
+    color: #656262;
+    border: none;
+    border-style: none;
+
+}       
+.EmailInput :focus{
+    border: 2px solid #dfdfdf;
+}
+.NewsLetterBtn{
+    color: #171717;
+    background-color: white;
+    padding: 20px;
+    border-width: 0px;
+    border-radius: 10px;
+    padding: 10px;
+    height: 4rem;
+    width: 10rem;
+    font-size: 20px;
+    font-weight: 600;
+    /* margin-right: 400px; */
+}
+.NewsLetterBtn :hover{
+    background-color: #d4d4d4;
+    cursor: pointer;
+
+}
+
+.checkbox input{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(230, 230, 230);
+    border-width: none;
+}
+.checkbox{
+    color: white;
+    font-size: 24px;
+    text-align: center ;
+}

@@ -1,0 +1,23 @@
+.newArrival{
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+    /* height: 100vh; */
+}
+.NewArrivalTop{
+    width: 100%;
+    background-color: #171717;
+    color: #daa800;
+}
+.NewArrivalTop h1{
+    text-align: center;
+    padding: 50px;
+    font-size: 48px;
+}
+.products{
+    width: 80%;
+    padding: 40px;
+}
+.Filters{
+    width: 20%;
+    padding: 40px;
+}

@@ -1,0 +1,45 @@
+.newArrivalBody{
+    display: flex;
+    justify-content: space-between;
+    /* gap: 20px; */
+    /* padding: 40px; */
+}
+.Filters{
+    width: 20%;
+    background-color: rgb(240, 240, 240);
+}
+.Filters p{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(116, 116, 116);
+}
+.products{
+    width: 80%;
+}
+.checkBoxTexts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.checkBoxes{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 10px;
+}
+.filterOption h4{
+    font-size: 18px;
+    font-weight: 500;
+    color: #daa800;;
+}
+.filterOption input{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(230, 230, 230);
+}
+.filterOption p{
+    font-size: 18px;
+    font-weight: 400;
+}
